@@ -6,14 +6,12 @@
 ## Introduction
 I'm studying Computer Engineering at University of Karabuk. I'm at third class and currently I'm improving my algorithm and coding skills. Recently , I have been studying Flutter. I am confident about Java and I am trying to support it with Spring.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bberkint&label=Profile%20views&color=0e75b6&style=flat" alt="bberkint" /> </p>
-
 <div align="center">
   <a href="https://github.com/bberkint">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bberkint&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bberkint&layout=compact&langs_count=7&theme=dark"/>
  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=bberkint&theme=dark"/>
 </div>
-  
  <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/bberkint" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bberkint" height="30" width="40" /></a>   
