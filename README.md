@@ -4,7 +4,7 @@
 - 💬 Ask me about Java
 
 ## Introduction
-I'm studying Computer Engineering at University of Karabuk. I'm at third class and currently I'm improving my algorithm and coding skills. Recently , I have been studying Flutter. I am confident about Java and I am trying to support it with Spring.
+I'm studying Computer Engineering at University of Karabuk. I'm at third class and currently I'm improving my algorithm and coding skills. Recently I've been studying Flutter , also I'm confident about Java and I am trying to support it with Spring.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bberkint&label=Profile%20views&color=0e75b6&style=flat" alt="bberkint" /> </p>
 <div align="center">
   <a href="https://github.com/bberkint">
