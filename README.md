@@ -33,8 +33,3 @@ I'm studying Computer Engineering at University of Karabuk. I'm at third class a
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> </a>
  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="50" height="50"/> </a> 
  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" width="50" height="50"/> </a>
-
-  
-  
-  
-<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Berkin Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=bberkint&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
