@@ -1,7 +1,7 @@
 ### Hi there👋 I'm Batın Berkin Topaloğlu
 
-- 🌱 I’m currently learning Flutter and Spring
-- 💬 Ask me about Java
+- 🌱 I’m currently learning Flutter.
+
 
 ## Introduction
 I'm studying Computer Engineering at University of Karabuk. I'm at fourth class and currently I'm improving my algorithm and coding skills. Recently I've been studying Flutter and I am improving myself about mobile developing.
