@@ -1,7 +1,7 @@
 ![MasterHead](https://cdn-images-1.medium.com/fit/t/1600/480/1*vkfI4nFNheC5v0p7wzDtGg.gif)
 <h1 align="center">Hi 👋, I'm Batın Berkin Topaloğlu</h1>
 <h3 align="center">Computer Engineering Student At University Of Karabuk</h3>
-<img align="right"  alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<img align="right"  alt="Coding" width="400" src="https://i.pinimg.com/550x/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bberkint&label=Profile%20views&color=0e75b6&style=flat" alt="bberkint" /> </p>
 
