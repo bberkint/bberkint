@@ -5,9 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bberkint&label=Profile%20views&color=0e75b6&style=flat" alt="bberkint" /> </p>
 
-- 🌱 I’m currently learning **Flutter and Java**
-
-- 💬 Ask me about **Java and Flutter**
 
 - 📫 How to reach me **topaloglubatinberkin@gmail.com**
 
