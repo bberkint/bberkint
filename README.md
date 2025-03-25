@@ -8,7 +8,9 @@
 
 - 📫 How to reach me **topaloglubatinberkin@gmail.com**
 
-After completing my Bachelor's degree in Computer Engineering, I have been continuously improving myself in software development, focusing particularly on .NET, MVC, and frontend technologies. Previously, I worked as a Junior Software Engineer at 3T Bilişim Teknolojileri, where I gained experience in taking responsibility within a team and working on real-world projects.
+After completing my Bachelor's degree in Computer Engineering, I have been continuously improving myself in software development, focusing particularly on .NET, MVC, and frontend technologies.
+
+Previously, I worked as a Junior Software Engineer at 3T Bilişim Teknolojileri, where I gained experience in taking responsibility within a team and working on real-world projects.
 
 With my passion for learning and self-improvement, I quickly adapt to new technologies and contribute with my problem-solving skills. Now, I am looking for an opportunity to be part of a dynamic and innovative team where I can further enhance my software development skills and make a meaningful impact.
 
